@@ -1,5 +1,5 @@
 ---
-icon: '1'
+icon: monero
 description: Demo Description
 ---
 
